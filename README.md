@@ -7,3 +7,5 @@ Aqui vão algumas tecnologias que trabalho no meu dia a dia:
 - JavaScript
 - C, C++
 - Python
+
+![minha_photo](ntf_1.png)
