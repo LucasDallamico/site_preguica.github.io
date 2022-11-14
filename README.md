@@ -1,4 +1,9 @@
-# Minha página
-lucasdallamico.github.io
+# Lucas Barros Dallamico
 
-## Obs: Ela redireciona para um projeto meu, projeto_autros, ao qual, tem informações mais detalhadas minhas.
+Olá, eu sou o Lucas Dallamico, Estudante de Engenharia Mecatrônica na UFSC, Joinville - SC.
+
+Aqui vão algumas tecnologias que trabalho no meu dia a dia:
+
+- JavaScript
+- C, C++
+- Python
