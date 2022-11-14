@@ -8,4 +8,4 @@ Aqui vão algumas tecnologias que trabalho no meu dia a dia:
 - C, C++
 - Python
 
-![minha_photo](ntf_1.png)
+![minha_photo](https://github.com/lbdallamico/lbdallamico.github.io/blob/master/nft_1.png)
